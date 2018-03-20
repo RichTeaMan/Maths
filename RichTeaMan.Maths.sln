@@ -9,6 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichTeaMan.Maths.Tests", "R
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{428781D6-AB59-44F9-AE57-97EDD6C72E30}"
 	ProjectSection(SolutionItems) = preProject
+		build.cake = build.cake
 		license.txt = license.txt
 		readme.md = readme.md
 	EndProjectSection
