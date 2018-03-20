@@ -17,4 +17,4 @@ This project uses [Cake](https://cakebuild.net)!
 
 |        | Windows | Linux |
 | ------ | --------|-------|
-| Master | [![Build status](https://ci.appveyor.com/api/projects/status/x9xexmpnqvtebcit/branch/master?svg=true)](https://ci.appveyor.com/project/RichTeaMan/maths/branch/master) | [![Build Status](https://travis-ci.org/RichTeaMan/Maths.svg?branch=master)](https://travis-ci.org/RichTeaMan/Maths) |
+| Master | [![Build status](https://ci.appveyor.com/api/projects/status/pi864gjc4qv1dpm4/branch/master?svg=true)](https://ci.appveyor.com/project/RichTeaMan/maths/branch/master) | [![Build Status](https://travis-ci.org/RichTeaMan/Maths.svg?branch=master)](https://travis-ci.org/RichTeaMan/Maths) |
