@@ -7,6 +7,12 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "RichTeaMan.Maths", "RichTea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichTeaMan.Maths.Tests", "RichTeaMan.Maths.Tests\RichTeaMan.Maths.Tests.csproj", "{603CE421-6211-4520-B774-345B220794E3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{428781D6-AB59-44F9-AE57-97EDD6C72E30}"
+	ProjectSection(SolutionItems) = preProject
+		license.txt = license.txt
+		readme.md = readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
